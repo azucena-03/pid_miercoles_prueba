@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Yaret Vasquez Herrera - G5</h1>
+<h1 align="center">Hola 👋, Soy Yaret Vasquez Herrera - G6</h1>
 <h3 align="center">Apasionada desarrolladora orientada al frontend</h3>
 
 - 🔭 Actualmente realizando **prueba**
